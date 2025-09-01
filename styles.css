@@ -31,7 +31,7 @@ section {
 .inicio-fundo {
     /* aula 3 */
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueIEaW2nAh_yXamDEiLEfvuFkE6iiLaotIw&s);
-    /* Substitua pelo caminho da sua imagem */
+    /*https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueIEaW2nAh_yXamDEiLEfvuFkE6iiLaotIw&s*/
     background-size: cover;
     background-position: right;
     border-radius: 80px;
