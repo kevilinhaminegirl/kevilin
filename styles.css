@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('https://images.squarespace-cdn.com/content/v1/53016f38e4b006094c9465f2/1604523433198-VGHY90FPCMXUVNUXCPXU/ariana.png');
+    background-image: url("https://images.squarespace-cdn.com/content/v1/53016f38e4b006094c9465f2/1604523433198-VGHY90FPCMXUVNUXCPXU/ariana.png");
     /*https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueIEaW2nAh_yXamDEiLEfvuFkE6iiLaotIw&s*/
     background-size: cover;
     background-position: right;
